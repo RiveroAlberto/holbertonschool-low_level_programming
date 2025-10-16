@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "main.h"
-
 /**
  * add - adds two integers
  *
@@ -11,7 +10,6 @@
  *
  * Return: Always the results (Success)
  */
-
 int add(int i, int c)
 {
 	return (i + c);
