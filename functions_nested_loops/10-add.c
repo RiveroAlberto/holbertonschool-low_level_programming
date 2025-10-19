@@ -10,7 +10,7 @@
  *
  * Return: Always the results (Success)
  */
-int add(int i, int c)
+int add(int a, int b)
 {
-	return (i + c);
+	return (a + b);
 }
