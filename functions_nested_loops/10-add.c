@@ -2,8 +2,8 @@
 /**
  * add - adds two integers
  *
- * @i: integer
- * @c: integer
+ * @a: integer
+ * @b: integer
  *
  * My function
  *
@@ -13,3 +13,4 @@ int add(int a, int b)
 {
 	return (a + b);
 }
+
